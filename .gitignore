@@ -1,0 +1,31 @@
+# Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.pdb
+
+# VS Code
+.vscode/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.swp
+
+# Coverage
+.coverage
+
+# Node modules (if any accidental)
+node_modules/
